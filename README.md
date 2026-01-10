@@ -1,7 +1,6 @@
 
-<img width="<img width="1536" height="1024" alt="ChatGPT Image 10 Oca 2026 17_04_38" src="https://github.com/user-attachments/assets/5266fcc3-084a-4241-8f12-dcaa7ab35122" />
-1536" height="1024" alt="ChatGPT Image 10 Oca 2026 20_42_24" src="https://github.com/user-attachments/assets/b5a4dfdc-5d5b-40b4-9e16-ef10416c526a" />
-
+<img width="1536" height="1024" alt="ChatGPT Image 10 Oca 2026 17_04_38" src="https://github.com/user-attachments/assets/9b1c3948-d240-4d1e-97d8-40b9301dbb26" />
+<img width="1536" height="1024" alt="ChatGPT Image 10 Oca 2026 20_42_24" src="https://github.com/user-attachments/assets/a03595e4-b665-4540-be93-556d22e087a4" />
 
 ## 🌌 **Spiem Hub — Universal Roblox Script Loader**
 
